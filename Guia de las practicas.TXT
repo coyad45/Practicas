@@ -1,3 +1,8 @@
 Practica 1: Escriba un programa que pida al usuario que escriba su nombre, y lo salude llamándolo por su nombre.
 Ingrese su nombre: Perico
 Hola, Perico
+
+Practica 2: Escriba un programa que reciba como entrada el radio de un círculo y entregue como salida su perímetro y su área
+Ingrese el radio: 5
+Perimetro: 31.4
+Área: 78.5
